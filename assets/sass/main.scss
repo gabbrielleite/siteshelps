@@ -62,6 +62,16 @@ body{
         }
     }
 }
+
+.navbar {
+    a{
+        color: #fff !important
+    }
+    a:focus {
+        color: #e52a3d !important;
+    }
+}
+
 #usar{
     background: url(../images/bg-oquefazemos.jpg) repeat;
     color: #fff;

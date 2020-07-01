@@ -39,6 +39,11 @@ body {
       font-size: 1.4rem; }
     #topo span {
       color: #e52a3d; } }
+.navbar a {
+  color: #fff !important; }
+.navbar a:focus {
+  color: #e52a3d !important; }
+
 #usar {
   background: url(../images/bg-oquefazemos.jpg) repeat;
   color: #fff; }
